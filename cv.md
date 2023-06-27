@@ -1,4 +1,5 @@
 # Yury Somau 
+(/images/me.jpg)
 ## Contacts:
 * Phone: +375 29 336 81 32
 * E-mail: Vasyaclub@gmail.com
@@ -10,6 +11,7 @@
 ## Skills
 * HTML
 * CSS
+* Git
 ## Code
 ```
 const func = (a, b) => {
