@@ -1,5 +1,5 @@
 # Yury Somau 
-![Avatar](/Images/me.jpg)
+![Avatar](/Images/Me.jpg)
 ## Contacts:
 * Phone: +375 29 336 81 32
 * E-mail: Vasyaclub@gmail.com
