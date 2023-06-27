@@ -19,7 +19,6 @@ func(1, 2);
 ```
 ## Projacts
 * https://github.com/vasyaclub/rsschool-cv.git
-*
 ## Educations
 * Belarusian State University, Physical faculty
 ## English
